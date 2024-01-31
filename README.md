@@ -26,6 +26,14 @@ To run this project locally, follow these steps:
 
 5. Install the required dependencies:
 
-6. Run the Streamlit app:
+6. **Run the Streamlit app** by executing:
 
+Copy code
+Replace `app.py` with the name of your Streamlit application file if it's different.
+
+## Additional Information
+
+For more details on Streamlit and its functionalities, visit the [Streamlit documentation](https://docs.streamlit.io).
+**Author:** [Yahan Xie]
+**Date:** [2023/1/31]
 
