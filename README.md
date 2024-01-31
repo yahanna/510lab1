@@ -30,6 +30,9 @@ To run this project locally, follow these steps:
 
 Copy code
 Replace `app.py` with the name of your Streamlit application file if it's different.
+  ```
+ Streamlit run app.py
+  ```
 
 ## Additional Information
 
